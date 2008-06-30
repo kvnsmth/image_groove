@@ -1,4 +1,4 @@
-= Image Groove - An easy way to show images + captions
+= Image Groove - An easy way to show images + captions.
 
 http://github.com/codebrulee/image_groove
 
@@ -6,7 +6,7 @@ http://github.com/codebrulee/image_groove
 
 Image Groove is a small jQuery-based JavaScript library for display images + captions. It doesn't need a database - just numbered image/text files from 1 to ... The animation code could probably be cleaned up with the new jQuery UI stuff, but it works pretty good as is.
 
-You can see an example (the same one in the repo) at http://codebrulee.com/image_grove/example/.
+You can see an example (the same one in the repo) at http://codebrulee.com/image_groove/example/.
 
 
 == LICENSE:
