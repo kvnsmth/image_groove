@@ -4,7 +4,7 @@ http://github.com/codebrulee/image_groove
 
 = What is it?
 
-Image Groove is a small jQuery-based JavaScript library for display images + captions. It doesn't need a database - just numbered image/text files from 1 to ... The animation code could probably be cleaned up with the new jQuery UI stuff, but it works pretty good as is.
+Image Groove is a small jQuery-based JavaScript library for display images + captions. It doesn't need a database - just numbered image/text files from 1 to ... The animation code could probably be cleaned up with the new jQuery UI stuff, but it works pretty well as is.
 
 You can see an example (the same one in the repo) at http://codebrulee.com/image_groove/example/.
 
